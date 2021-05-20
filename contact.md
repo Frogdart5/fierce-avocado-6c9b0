@@ -5,4 +5,4 @@ bodyClass: page-contact
 ---
 
 ### Barb Engh ###
-**Email:** [barb@cafundraising.info](mailto:)
+**Email:** [barb@cafundraising.info](mailto:barb@cafundraising.info)
