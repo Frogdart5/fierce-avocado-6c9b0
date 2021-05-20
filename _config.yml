@@ -20,7 +20,6 @@ seo:
     Jekyll Serif is a modern business theme for Hugo. It contains content types
     for the archetypical business website. The theme is fully responsive,
     blazing fast and artfully illustrated.
-collections:
 sass:
   indentWidth: 4
   style: compact
