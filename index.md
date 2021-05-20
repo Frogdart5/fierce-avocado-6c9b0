@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Who We Are
 
-Concorida Academy nonprofit organization 
+Concorida Academy nonprofit organization helps parents and students to 
