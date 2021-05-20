@@ -11,3 +11,7 @@ bodyClass: page-contact
 ### Allen Peterson ###
 *Signup Ogranizer*   
 **Email:** <allen@cafundraising.info>
+
+### Julie Worall ###
+*Signup Ogranizer*   
+**Email:** <allen@cafundraising.info>
