@@ -9,5 +9,5 @@ bodyClass: page-contact
 **Email:** <barb@cafundraising.info>
 
 ### Allen Peterson ###
-*Coordinator for Target Field*   
-**Email:** <barb@cafundraising.info>
+*Signup Ogranizer*   
+**Email:** <allen@cafundraising.info>
