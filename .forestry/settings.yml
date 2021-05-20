@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: assets/css/style.scss
+  label: Style
+  match: "**/*"
+- type: document
   path: _config.yml
   label: Config
 - type: document
