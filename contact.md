@@ -5,5 +5,5 @@ bodyClass: page-contact
 ---
 
 ### Barb Engh ###
-*Coordinator for Target Field*. 
+*Coordinator for Target Field* 
 **Email:** <barb@cafundraising.info>
