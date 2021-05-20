@@ -1,6 +1,7 @@
+---
 baseurl: ''
 permalink: pretty
-title: CA Fundraising 
+title: CA Fundraising
 google_analytics_id: ''
 homepage:
   show_call_box: true
@@ -11,38 +12,36 @@ logo:
 footer:
   copyright_text: Created by CA NPO
 seo:
-  meta_og_title: Jekyll Serif Theme
+  meta_og_title: 'CA Fundraising '
   meta_og_type: website
-  meta_og_url: 'https://jekyll-serif.netlify.app'
-  meta_og_image: >-
-    https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png
-  meta_og_description: >-
-    Jekyll Serif is a modern business theme for Hugo. It contains content types
-    for the archetypical business website. The theme is fully responsive,
+  meta_og_url: https://jekyll-serif.netlify.app
+  meta_og_image: https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png
+  meta_og_description: Jekyll Serif is a modern business theme for Hugo. It contains
+    content types for the archetypical business website. The theme is fully responsive,
     blazing fast and artfully illustrated.
-  meta_twitter_card: summary
-  meta_twitter_site: '@zerostaticio'
-  meta_twitter_creator: '@zerostaticio'
+  meta_twitter_card: ''
+  meta_twitter_site: ''
+  meta_twitter_creator: ''
 collections:
   services:
     output: true
   team:
     output: true
 sass:
-  indentWidth: 4
+  indentWidth: "4"
   style: compact
-  precision: 10
+  precision: "10"
 plugins:
-  - jekyll-environment-variables
+- jekyll-environment-variables
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - LICENSE.md
-  - LICENSE
-  - README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- LICENSE.md
+- LICENSE
+- README.md
 url: ''
