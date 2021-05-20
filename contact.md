@@ -8,6 +8,6 @@ bodyClass: page-contact
 *Coordinator for Target Field*   
 **Email:** <barb@cafundraising.info>
 
-### Barb Engh ###
+### Allen Peterson ###
 *Coordinator for Target Field*   
 **Email:** <barb@cafundraising.info>
