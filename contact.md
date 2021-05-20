@@ -5,4 +5,4 @@ bodyClass: page-contact
 ---
 
 ### Barb Engh ###
-*Email:* 
+**Email:** 
