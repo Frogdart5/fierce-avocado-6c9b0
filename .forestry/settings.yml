@@ -5,8 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: index.md
+  label: Main
+  match: "**/*"
+- type: document
   path: about.md
   label: About
+- type: document
+  path: contact.md
+  label: Contact
   match: "**/*"
 - type: jekyll-pages
   label: Pages
