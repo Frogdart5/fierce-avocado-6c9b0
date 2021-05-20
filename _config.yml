@@ -28,9 +28,9 @@ collections:
   team:
     output: true
 sass:
-  indentWidth: "4"
+  indentWidth: 4
   style: compact
-  precision: "10"
+  precision: 10
 plugins:
 - jekyll-environment-variables
 exclude:
