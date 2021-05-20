@@ -13,5 +13,5 @@ bodyClass: page-contact
 **Email:** <allen@cafundraising.info>
 
 ### Julie Worall ###
-*Signup Ogranizer*   
+*Coordinator for US Bank stadium and TCF bank S*   
 **Email:** <allen@cafundraising.info>
