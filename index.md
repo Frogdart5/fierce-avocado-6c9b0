@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Who We Are
 
-Concorida Academy nonprofit organization helps parents and students to pay tuition and other expenses through concessions work at stadiums. Learn more ->
+Concorida Academy nonprofit organization helps parents and students to pay tuition and other expenses through concessions work at stadiums. [Learn more ->]
