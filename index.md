@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# CA Fundraising
+# Who we are
 
 Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
