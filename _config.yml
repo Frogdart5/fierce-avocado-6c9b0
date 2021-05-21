@@ -7,8 +7,8 @@ homepage:
   show_call_box: true
 logo:
   mobile: images/logo/LogoMakr-5Xd7PR.png
-  desktop: images/logo/LogoMakr-4v4hrB.png
-  desktop_height: 36px
+  desktop: images/logo/logo.svg
+  desktop_height: 38px
 footer:
   copyright_text: Created by CA NPO
 seo:
