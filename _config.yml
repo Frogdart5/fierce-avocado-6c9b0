@@ -32,7 +32,7 @@ sass:
 plugins:
 - jekyll-environment-variables
 - jekyll-sitemap
-- kekyll-seo-tag
+- jekyll-seo-tag
 exclude:
 - Gemfile
 - Gemfile.lock
