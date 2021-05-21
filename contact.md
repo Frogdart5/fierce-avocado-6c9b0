@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: Contact Us
 layout: contact
 bodyClass: page-contact
----
 
+---
 ### Julie Worall ###
 *Coordinator for US Bank stadium and TCF bank Stadium*   
 **Email:** <julie@cafundraising.info>
