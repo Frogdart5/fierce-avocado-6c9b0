@@ -1,5 +1,5 @@
 ---
-baseurl: ''
+baseurl: 
 permalink: pretty
 title: CA Fundraising
 google_analytics_id: ''
@@ -12,14 +12,12 @@ logo:
 footer:
   copyright_text: Created by CA NPO
 seo:
-  meta_og_title: 'CA Fundraising '
+  meta_og_title: 'CA Fundraising'
   meta_og_type: website
-  meta_og_url: https://jekyll-serif.netlify.app
+  meta_og_url: https://ca-fundraising-tester.pages.dev
   meta_og_image: https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png
-  meta_og_description: Jekyll Serif is a modern business theme for Hugo. It contains
-    content types for the archetypical business website. The theme is fully responsive,
-    blazing fast and artfully illustrated.
-  meta_twitter_card: ''
+  meta_og_description: Concorida Academy nonprofit organization helps parents and students to pay tuition and other expenses through concessions work at stadiums.
+  meta_twitter_card: 'summary'
   meta_twitter_site: ''
   meta_twitter_creator: ''
 collections:
@@ -33,6 +31,8 @@ sass:
   precision: 10
 plugins:
 - jekyll-environment-variables
+- jekyll-sitemap
+- jekyll-seo-tag
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -44,4 +44,4 @@ exclude:
 - LICENSE.md
 - LICENSE
 - README.md
-url: ''
+url: 'https://ca-fundraising-tester.pages.dev'

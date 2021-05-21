@@ -21,7 +21,6 @@ sections:
 - type: document
   path: assets/css/style.scss
   label: Style
-  match: "**/*"
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
