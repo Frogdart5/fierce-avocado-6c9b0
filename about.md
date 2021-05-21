@@ -24,3 +24,5 @@ Concorida Academy nonprofit organization helps parents and students to pay tuiti
 ### What do I do if I can't make a day I'm signed up for?
 
 ### how often can I work?
+
+### What stadiums can I work at?
