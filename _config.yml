@@ -17,7 +17,7 @@ seo:
   meta_og_url: https://ca-fundraising-tester.pages.dev
   meta_og_image: https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png
   meta_og_description: Concorida Academy nonprofit organization helps parents and students to pay tuition and other expenses through concessions work at stadiums.
-  meta_twitter_card: ''
+  meta_twitter_card: 'summary'
   meta_twitter_site: ''
   meta_twitter_creator: ''
 collections:
@@ -31,6 +31,8 @@ sass:
   precision: 10
 plugins:
 - jekyll-environment-variables
+- jekyll-sitemap
+- kekyll-seo-tag
 exclude:
 - Gemfile
 - Gemfile.lock
