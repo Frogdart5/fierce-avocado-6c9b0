@@ -1,5 +1,5 @@
 ---
-baseurl: ca-fundraising-tester.pages.dev
+baseurl: 
 permalink: pretty
 title: CA Fundraising
 google_analytics_id: ''
@@ -44,4 +44,4 @@ exclude:
 - LICENSE.md
 - LICENSE
 - README.md
-url: ''
+url: 'https://ca-fundraising-tester.pages.dev'
