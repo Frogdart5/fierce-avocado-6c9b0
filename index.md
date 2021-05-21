@@ -3,8 +3,8 @@ title: CA Fundraising
 layout: home
 description: Jekyll Serif contains content types for a typical business website. The
   theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: images/illustrations/undraw_light_the_fire_gt58.svg
-intro_image_absolute: true
+intro_image: images/illustrations/undraw_education_f8ru.svg
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 
 ---
