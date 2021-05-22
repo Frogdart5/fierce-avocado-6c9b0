@@ -41,7 +41,7 @@ $sub-footer-text-color: $white;
 @import 'components/page';
 @import 'components/header';
 @import 'components/footer';
-@import 'components/sub-footer';
+//@import 'components/sub-footer';
 @import 'components/logo';
 @import 'components/main-menu';
 @import 'components/main-menu-mobile';
@@ -58,8 +58,27 @@ $sub-footer-text-color: $white;
 
 // Pages
 @import 'pages/home';
-@import 'pages/team/team-summary';
-@import 'pages/services/page-services-single';
+
+
+//fonts
+/* playfair-display-regular - latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../assets/fonts/playfair-display-v22-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/playfair-display-v22-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-700 - latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../assets/fonts/playfair-display-v22-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/playfair-display-v22-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 
 body {
   font-size: 16px;
